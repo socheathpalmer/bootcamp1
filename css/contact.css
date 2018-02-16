@@ -1,0 +1,44 @@
+body {
+    font-family: 'Merienda', cursive;
+}
+
+.contact-header {
+    color: green;
+    }
+    
+.large-box {
+  height: 300px;
+  width: 700px;
+  border: 1px solid #000000;
+  background-color: gold;
+  font-size: 36px;
+}
+
+.small-box {
+  height: 300px;
+  width: 300px;
+  border: 1px solid #000000;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.contact-column {
+    width: 50%;
+    text-align: center;
+    float: left;
+font-family: 'Rammetto One', cursive;
+}
+
+
+
+.form-container {
+    width: 50%;
+    margin: 0 auto;
+    }
+    
+.map-container {
+  width: 75%;
+  margin: 0 auto;
+  }

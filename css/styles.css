@@ -1,0 +1,153 @@
+/*Start of nav styles*/
+.body {
+  margin: 0;
+}
+
+.main-nav {
+  height: 70px;
+  width: 100%;
+  background-color: rgba(51,153,255,.25);
+}
+
+.logo {
+  height: 100%;
+}
+
+.nav-list {
+  float: right;
+  list-style: none;
+}
+
+.nav-item {
+  float: left;
+  margin-right: 15px;
+}
+
+.nav-link {
+  color: green; 
+  text-decoration: none;
+}
+/*End of nav styles */
+
+/*Start of hero styles */
+
+.hero-section{
+  height: 500px;
+  background-image: url('../images/sewing-threads.jpg');
+  background-size: 100% 100%;
+}
+
+.hero-text {
+  margin-top: 0px;
+  padding-top: 200px;
+  text-align: center;
+  color: #fff;
+  }
+  
+.text-background {
+  background-color: rgba(0,0,0,.5);
+  padding: 10px;
+  }
+/*End hero styles */
+
+/*Start column styles */
+.container {
+  padding: 2.25% 0;
+  background-color: #7f7f7f;
+  }
+  
+.container:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+  
+.column {
+  height: 300px;
+  width: 30%;
+  border: 1px solid #fff;
+  float: left;
+  text-align: center;
+  color: #fff;
+  margin-left: 2.25%;
+  }
+  
+.column-image {
+  width: 100%;
+  height:115px;
+  }
+
+/*End of colum styles */
+
+/*Start footer styles */
+.main-footer {
+  height: 150px;
+  border-top:1px solid #000000;
+  }
+  
+.footer-section {
+  width: 33%;
+  border-right: 1px solid #000000;
+  float: left;
+  height: 100%;
+  }
+  
+.main-box{
+  height:200px;
+  width: 200px;
+}
+
+.box{
+  height:60px;
+  width: 60px;
+}
+
+.circle-background {
+  background-color: green;
+  border-radius: 100%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear-left {
+  clear: left;
+}
+
+.clear-right {
+  clear: right;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.center-text {
+  padding-top: 15px;
+}
+
+.fa-github {
+  color: blue;  
+  font-size: 50px;
+}
+
+.fa-facebook-f {
+  color: blue;  
+  font-size: 50px;
+}
+
+.fa-instagram {
+  color: blue;  
+  font-size: 50px;
+}
+
+.fa-twitter {
+  color: blue;  
+  font-size: 50px;
+}
+/*End footer styles */
